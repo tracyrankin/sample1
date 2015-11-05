@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-ex",
+  "name": "sample1",
   "version": "0.0.1",
-  "description": "Node.js sample app for OpenShift 3",
+  "description": "Tracy sample app for OpenShift 3",
   "main": "server.js",
   "dependencies": {
       "express": "*",
@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/openshift/nodejs-ex.git"
+    "url": "http://github.com/tracyrankin/sample1.git"
   },
-  "author": "Steve Speicher <sspeiche@gmail.com>",
+  "author": "Tracy Rankin <trankin@gmail.com>",
   "license": "",
   "bugs": {
-    "url": "http://github.com/openshift/nodejs-ex/issues"
+    "url": "http://github.com/tracyrankin/sample1/issues"
   },
-  "homepage": "http://github.com/openshift/nodejs-ex"
+  "homepage": "http://github.com/tracyrankin/sample1"
 }
